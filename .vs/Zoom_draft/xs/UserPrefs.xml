@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{50CDC906-8ED6-C77F-D961-84BDFC7B6EAD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs">
+    <Files>
+      <File FileName="Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" Line="21" Column="51" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerBlueScript.cs" Line="31" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zoom_draft" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Joystick Pack" expanded="True">
+                <Node name="Examples" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="Joysticks" expanded="True">
+                    <Node name="VariableJoystick.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Player Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Zoom_draft" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cc57762a-5686-4caf-a183-e2d5fb3328c6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
